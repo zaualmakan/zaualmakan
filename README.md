@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**zaualmakan/zaualmakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                          Nurdaulet@Zaualmakan
+                                          --------------
+                                          OS: Windows 11, Fedora Linux 44
+                                          Kernel: Electronic Engineer
+                                          Uptime: 19 years, 3 months, 6 days 
+                                          Shell: bash, Visual Studio Code, Vim
+                                          --------------
+                                          Language.Programming: C/C++, Python
+                                          Language.Descriptive: Verilog
+                                          --------------
+                                          Hobbies.Software: FPGA programming, AI/ML learning
+                                          Hobbies.Hardware: Embedded Systems Projects
+                                          --------------
+                                          Email.Personal: nu.zaualmakan@gmail.com
+                                          LinkedIn:
+                                          
