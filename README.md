@@ -1,3 +1,5 @@
+
+    
     ⠀⠀⠀⠀⢀⣠⣴⢴⣖⠒⠲⢤⡀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢠⣿⣷⠃⠀⠈⠙⢦⣀⣇⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠈⠻⣿⡭⠳⣤⣀⣼⣿⠛⠀⠀⠀⠀⠀⠀⠀    Nurdaulet@Zaualmakan
@@ -18,3 +20,4 @@
 ⠀⠀⠀⠀⠀⠀⢸⣩⠉⠉⠉⠉⠉⠈⠉⠉⣿⠇⠀⠀⠀⠀⠀    Email.Personal: nu.zaualmakan@gmail.com
 ⠀⠀⠀⠀⠀⠀⠼⢧⠀⠀⠀⠀⠀⠀⠀⠀⢻⡄⠀⠀⠀⠀⠀    LinkedIn: Nurdaulet Zaualmakan
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁
+
